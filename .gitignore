@@ -1,2 +1,5 @@
 *.gem
 Gemfile.lock
+.rvmrc
+.idea
+.idea/*
